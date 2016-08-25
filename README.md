@@ -3,7 +3,7 @@
 
 有四个变量需要注意：
 
-  // 定义一个表达式的类型，表示计算倍数
+  	// 定义一个表达式的类型，表示计算倍数
 	var expression_type = [2, 3, 4];
 	// 取expression_type数组的长度限制
 	var expression_type_max_length = 2;
